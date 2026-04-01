@@ -1,7 +1,7 @@
 package router
 
 import (
-	handler "github.com/Peixotim/gopportunities/handlers"
+	handler "github.com/Peixotim/gopportunities/handler"
 	"github.com/gin-gonic/gin"
 )
 
