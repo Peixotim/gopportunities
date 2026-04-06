@@ -44,3 +44,4 @@ temp/
 *.pfx
 *.sqlite
 *.db
+db/
